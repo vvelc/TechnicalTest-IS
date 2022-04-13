@@ -1,0 +1,27 @@
+<h1 mat-dialog-title>Editing {{book.title}}</h1>
+<div mat-dialog-content>
+  <mat-form-field appearance="fill">
+    <mat-label>Title</mat-label>
+    <input matInput [(ngModel)]="book.title">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Description</mat-label>
+    <input matInput [(ngModel)]="book.description">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Page Count</mat-label>
+    <input matInput [(ngModel)]="book.pageCount" type="number">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Excerpt</mat-label>
+    <textarea matInput [(ngModel)]="book.excerpt" rows="3"></textarea>
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Publish Date</mat-label>
+    <input matInput [(ngModel)]="book.publishDate">
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Cancel</button>
+  <button mat-button (click)="onSave()" cdkFocusInitial color="primary">Save</button>
+</div>

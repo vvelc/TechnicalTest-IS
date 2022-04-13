@@ -1,0 +1,55 @@
+.books-table {
+    width: 100%;
+    .mat-column-id {
+        width: 20%;
+    }
+    .mat-column-title {
+        width: 80%;
+    }
+    .mat-row {
+        cursor: pointer;
+        transition: background-color 0.2s ease 0s;
+        &:hover {
+            background-color: #eeeeee;
+        }
+        button{
+            transition: background-color 0.2s ease 0s;
+            margin-left: 10px;
+            &:hover {
+                background-color: #bbbbbb;
+            }
+        }
+    }
+}
+
+.add-button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    
+
+    button {
+        height: 2.5rem
+    }
+
+    h1 {
+        margin: 0;
+        font-weight: bold;
+    }
+}
+
+.spinner-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    .mat-progress-spinner {
+        height: 150px;
+        margin: 2.5rem;
+    }
+}
