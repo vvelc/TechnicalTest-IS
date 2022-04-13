@@ -1,0 +1,30 @@
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+C:\Users\Josue Pujols\OneDrive\Escritorio\Prueba Tecnica Claro\ApiClaro\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\refint\Persistence.dll
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+C:\Users\victo\Documents\Programming\Technical Tests\InfoSyp\Backend\Persistence\obj\Debug\net5.0\ref\Persistence.dll
